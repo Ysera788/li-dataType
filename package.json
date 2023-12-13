@@ -1,0 +1,22 @@
+{
+  "name": "li-datatype",
+  "version": "1.0.0",
+  "description": "用于判断给定变量的数据类型",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/yseraaa/li-datatype.git"
+  },
+  "publicConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "data",
+    "type"
+  ],
+  "author": "Ysera",
+  "license": "MIT"
+}
